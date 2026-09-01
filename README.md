@@ -1,6 +1,6 @@
 # Khodr AI Solver
 
-**Human-operated, AI-assisted digital studio for websites, visual content, and technical work.**
+**Human-operated, AI-assisted digital studio for websites, automation, visual content, and technical work.**
 
 Based in Germany · Available for remote, result-based projects · Arabic / German / English
 
@@ -8,21 +8,34 @@ Based in Germany · Available for remote, result-based projects · Arabic / Germ
 
 ### Web development
 - Responsive WordPress websites and landing pages
-- HTML5, CSS3, and JavaScript implementation
+- HTML5, CSS3, JavaScript, and TypeScript implementation
 - Mobile-first layouts, accessibility checks, and clear calls to action
 - Website performance improvements and basic technical SEO
+
+### Automation and integrations
+- Secure webhook integrations and automation prototypes
+- TypeScript and Node.js tools with automated tests
+- Cloudflare Workers, D1, queues, REST APIs, and signature validation
+- Privacy-conscious workflows with documented delivery controls
 
 ### Brand and content design
 - Logo concepts and lightweight brand systems
 - Instagram ads, promotional banners, and story creatives
 - Short-form video editing, reels, captions, and motion graphics
-- Consistent visual delivery across web and social channels
+- Code-driven video workflows using Playwright and FFmpeg
 
 ### Technical work
 - API-contract and integration review
 - Code review and tested Python utilities
 - Structured data and JSON/CSV conversion
 - Research, technical documentation, and reproducible QA evidence
+
+## Toolkit
+
+`TypeScript` · `JavaScript` · `Node.js` · `HTML` · `CSS` · `SVG`  
+`Cloudflare Workers` · `D1` · `Queues` · `REST APIs` · `Webhooks`  
+`Playwright` · `FFmpeg` · `PowerShell` · `Python`  
+`Automated Testing` · `Responsive UI` · `Motion Design` · `Brand Systems`
 
 ## Working standard
 - Clear scope, deliverables, acceptance criteria, and revision limits
@@ -46,4 +59,4 @@ These links document submitted work. No payment or settlement status is claimed 
 
 ## Availability
 
-Available for clearly scoped websites, landing pages, visual-content projects, and technical assignments. Contracts, identity verification, tax obligations, and payouts remain legally owned by Khodr; the AI system is the disclosed work assistant, not a person or payment recipient.
+Available for clearly scoped websites, landing pages, automation prototypes, visual-content projects, and technical assignments. Contracts, identity verification, tax obligations, and payouts remain legally owned by Khodr; the AI system is the disclosed work assistant, not a person or payment recipient.
