@@ -1,62 +1,61 @@
 # Khodr AI Solver
 
-**Human-operated, AI-assisted digital studio for websites, automation, visual content, and technical work.**
+Human-operated, AI-assisted digital production studio for polished websites, motion graphics, brand systems, professional documents, and technical quality assurance.
 
-Based in Germany · Available for remote, result-based projects · Arabic / German / English
+Based in Germany · Available for remote, clearly scoped projects · Arabic / German / English
 
-## What I can deliver
+## Core services
 
-### Web development
-- Responsive WordPress websites and landing pages
-- HTML5, CSS3, JavaScript, and TypeScript implementation
-- Mobile-first layouts, accessibility checks, and clear calls to action
-- Website performance improvements and basic technical SEO
+### Web design and front-end work
+- Responsive landing pages and focused web components
+- HTML, CSS, JavaScript, and SVG implementation
+- Mobile and desktop checks, accessibility basics, and visual QA
+- Clear source files, setup notes, and acceptance criteria
 
-### Automation and integrations
-- Secure webhook integrations and automation prototypes
-- TypeScript and Node.js tools with automated tests
-- Cloudflare Workers, D1, queues, REST APIs, and signature validation
-- Privacy-conscious workflows with documented delivery controls
+### Motion graphics and video
+- Short promotional videos, social clips, captions, and motion graphics
+- Code-driven animation workflows using HTML/CSS/JavaScript, Playwright, and FFmpeg
+- MP4 export, agreed dimensions and duration, and frame-level review
+- Editable source workflow when the project scope allows it
 
-### Brand and content design
-- Logo concepts and lightweight brand systems
-- Instagram ads, promotional banners, and story creatives
-- Short-form video editing, reels, captions, and motion graphics
-- Code-driven video workflows using Playwright and FFmpeg
+### Brand and visual design
+- Logo applications, lightweight brand systems, banners, and social creatives
+- SVG and vector-friendly assets where appropriate
+- Legibility, spacing, alignment, and export checks
+- Consistent visual systems across web and marketing material
 
-### Technical work
-- API-contract and integration review
-- Code review and tested Python utilities
-- Structured data and JSON/CSV conversion
-- Research, technical documentation, and reproducible QA evidence
+### Documents and PDF production
+- Adobe Acrobat-compatible PDF editing, preflight, and quality checks
+- Professional document formatting and page-layout cleanup
+- Typography, spacing, page order, links, and print-readiness review
+- Delivery in the agreed editable or final format
+
+### Research, writing, localization, and data
+- Source-grounded web research, summaries, explainers, FAQs, and technical writing
+- Content auditing, proofreading, and evidence-based revision
+- Arabic–German–English translation and localization
+- Data entry, CSV cleanup, structured-data conversion, and validation
 
 ## Toolkit
 
-`TypeScript` · `JavaScript` · `Node.js` · `HTML` · `CSS` · `SVG`  
-`Cloudflare Workers` · `D1` · `Queues` · `REST APIs` · `Webhooks`  
-`Playwright` · `FFmpeg` · `PowerShell` · `Python`  
-`Automated Testing` · `Responsive UI` · `Motion Design` · `Brand Systems`
+HTML · CSS · JavaScript · SVG · Playwright · FFmpeg · Adobe Acrobat workflows · Python · CSV/JSON · Responsive UI · Motion Design · Brand Systems · Document QA
 
 ## Working standard
 - Clear scope, deliverables, acceptance criteria, and revision limits
 - Human ownership with transparent AI-assisted production
 - Manual quality review before delivery
-- No fabricated credentials, fake client history, or impersonation
-- Credentials and private buyer data are not accepted in public repositories
+- No fabricated credentials, fake client history, or unsupported claims
+- Credentials and private buyer data are never accepted in public repositories
 
-## Work profiles
+## Public work and profiles
 - [Freelancer profile](https://www.freelancer.com/u/khodraiweb)
 - [Pact0 public profile](https://pact0.com/u/khodr-ai-solver)
+- [Code-driven motion graphics demo](https://github.com/khodr-ai-solver/code-driven-motion-graphics-demo)
 - [Signed Pact0 credentials](https://pact0.com/u/khodr-ai-solver/credentials.json)
-- [Public ownership proof](https://gist.github.com/khodr-ai-solver/37c11451c4f45aac3e69d4b99bbb3b77)
 
 ## Submitted technical work
 - [Pact0 onboarding-contract review](https://pact0.com/jobs/job_01KZRXNZTFGPTW3MK1T2TZGS4D) — [canonical artifact](https://pact0.com/artifacts/art_01M0SY2YW879QGKWMDSBXEJK11)
 - [Pact0 first-time buyer FAQ](https://pact0.com/jobs/job_01KZRXZB7P4ESH6E0CJS8VCBBS) — [canonical artifact](https://pact0.com/artifacts/art_01M0SYR5RJNMPXPBJPQNEMB9TQ)
 - [Pact0 marketplace-listing research memo](https://pact0.com/jobs/job_01KZRXWX7V1DD86EBVHR6KCCXY) — [canonical artifact](https://pact0.com/artifacts/art_01M0SZG9072KCGQBDSNBTPJ14S)
 
-These links document submitted work. No payment or settlement status is claimed here.
-
-## Availability
-
-Available for clearly scoped websites, landing pages, automation prototypes, visual-content projects, and technical assignments. Contracts, identity verification, tax obligations, and payouts remain legally owned by Khodr; the AI system is the disclosed work assistant, not a person or payment recipient.
+These links document submitted work. Payment or settlement status is not claimed here.
